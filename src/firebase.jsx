@@ -7,7 +7,7 @@ import { initializeApp } from "firebase/app";
 const firebaseConfig = {
   apiKey: "AIzaSyDqE1IfIaEDOiKTpLFuysLxob6GHGJqBQY",
   authDomain: "react-chatapp-47037.firebaseapp.com",
-  databaseURL: 'http://react-chatapp-47037.firebaseio.com',
+  databaseURL: 'http://react-chatapp-47037.firebaseio.com', 
   projectId: "react-chatapp-47037",
   storageBucket: "react-chatapp-47037.appspot.com",
   messagingSenderId: "416280779498",
