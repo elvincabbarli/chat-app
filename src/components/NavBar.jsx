@@ -5,7 +5,7 @@ const NavBar = () => {
   return (
     <nav>
         <h3>
-            <Link to={'/'}>Massenger</Link>
+            <Link to={'/'}>Messenger</Link>
         </h3>
         <div>
             <Link to={'/registr'}>Registr</Link>
